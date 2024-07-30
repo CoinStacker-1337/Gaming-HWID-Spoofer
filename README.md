@@ -1,6 +1,7 @@
 # HWID-Spoofer
 
-[![SPOOFER](https://zelenka.guru/proxy.php?image=https%3A%2F%2Fimages-ext-1.discordapp.net%2Fexternal%2FFLDJDUBsvlsQmVjtF0DA37zJDe3QE36yIM2cEMRF1zc%2Fhttps%2Fsternclient.biz%2Fuploads%2Fmonthly_2024_04%2Fspoofer.png.c7ea294b4b05447925f0e05c790a07c0.png%3Fformat%3Dwebp%26quality%3Dlossless&hash=86b03c9a5ec0258acf63201f0dd3dd3b)]
+![Spoof]([https://myoctocat.com/assets/images/base-octocat.svg](https://i.ibb.co/ZWrwzZH/spoofer-png-c7ea294b4b05447925f0e05c790a07c0.webp))
+
 Supported processors: Intel, amd Supported OS : Windows 10 from 2004 (18363) to the latest 22H2, Windows11
 
 
