@@ -26,7 +26,6 @@ The Gaming HWID Spoofer includes MAC Address spoofing, adding an additional laye
 
 **4.) Compatibility with Multiple Games:**
 
-**This spoofer is compatible with a wide range of popular games, including:**
 
 -Apex Legends
 
