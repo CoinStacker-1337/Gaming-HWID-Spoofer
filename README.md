@@ -66,17 +66,17 @@ This HWID Spoofer is designed with a user-friendly interface, making it easy for
 **Q:** **Which games are compatible with the HWID Spoofer? A:** The spoofer is compatible with a wide range of games, including Apex Legends, Fortnite, Call of Duty (Warzone / Modern Warfare 3), DayZ, Escape from Tarkov (EFT), GTA V/5, Rainbow Six Siege (R6s), Rust, Overwatch, and many more. Check all supported games by pressing HERE.
 
 
-**How to Use the Spoofer**
+**How to Use the Spoofer:**
 
-Download and Install Lastest Realese:
+Download and Install Lastest Realese
 
 Start by downloading the Spoofer. Follow the installation instructions provided in the user guide.
 
-Configure Your Settings:
+Configure Your Settings
 
 Customize the spoofer settings to fit your needs. Adjust the HWID and MAC address settings to ensure complete anonymity.
 
-Launch and Play:
+Launch and Play
 
 Once configured, launch the spoofer and then start your game. Enjoy playing without the fear of being detected or banned.
 
