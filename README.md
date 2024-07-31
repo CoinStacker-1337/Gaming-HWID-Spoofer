@@ -84,6 +84,11 @@ Supported processors: Intel, amd Supported OS : Windows 10 from 2004 (18363) to 
 
 **Tips for Safe and Effective Spoofing**
 
+After each computer restart its advised run spoofer again (TEMP SPOOF).
+The spoofer only needs to be started once before the next PC reboot.
+Spoofer does not remove the ban from your account, it removes the ban from your PC for the duration of Spoofer
+Some games have their own HWID ban system (EFT, PUBG, FORTNITE and mores) which is why you are sometimes required to use cleaner(s) and more options on the spoofer
+
 **Regular Updates:** Keep your spoofer updated with the latest version to ensure it remains effective against new anti-cheat measures.
 
 **Stealthy Settings:** Use the spoofer settings that best mimic natural hardware configurations to avoid detection.
