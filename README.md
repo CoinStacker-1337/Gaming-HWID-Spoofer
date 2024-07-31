@@ -1,8 +1,6 @@
 # HWID-Spoofer
 
-![Spoof]([https://myoctocat.com/assets/images/base-octocat.svg](https://i.ibb.co/ZWrwzZH/spoofer-png-c7ea294b4b05447925f0e05c790a07c0.webp))
-
-Supported processors: Intel, amd Supported OS : Windows 10 from 2004 (18363) to the latest 22H2, Windows11
+![alt text](https://i.ibb.co/ZWrwzZH/spoofer-png-c7ea294b4b05447925f0e05c790a07c0.webp))
 
 
 **Why Use an HWID Spoofer/Changer?**
@@ -57,6 +55,8 @@ Customize the spoofer settings to fit your needs. Adjust the HWID and MAC addres
 Launch and Play:
 
 Once configured, launch the spoofer and then start your game. Enjoy playing without the fear of being detected or banned.
+
+Supported processors: Intel, amd Supported OS : Windows 10 from 2004 (18363) to the latest 22H2, Windows11
 
 
 **Tips for Safe and Effective Spoofing**
